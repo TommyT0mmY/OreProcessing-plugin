@@ -1,0 +1,3 @@
+only-players-command: "§cOnly players are able to perform this command!" #When a command isn't executed by a player
+invalid-permissions: "§cYou don't have the permission to do that!" #When a player doesn't have the permission to complete an action
+received_shovel: "§aYou received a special shovel, use it to start Ore Processing missions" #Sent when a player receives a "processhovel"

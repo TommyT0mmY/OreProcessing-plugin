@@ -1,0 +1,11 @@
+name: OreProcessing
+prefix: OreProcessing
+author: Tommy_T0mmY
+version: ${version}
+main: com.mccitylife.oreprocessing.OreProcessing
+description: A thing
+api-version: 1.13
+commands:
+  processhovel:
+    usage: /<command>
+    description: Gives the shovel required to start plugin's missions
